@@ -30,46 +30,5 @@ This dashboard is ideal for:
 ## 📬 Contact
 For feedback or collaboration, connect with me on LinkedIn or email at mithunverma2638@gmail.com
 
-# Power BI Dashboard: Books Orders
 
-This repository contains a Power BI dashboard to visualize and analyze book order data in a clear, interactive format[file:1].
-
-## Project Overview
-
-- Provides a complete dashboard for book orders analysis[file:1].
-- Visuals include bar charts, donut charts, line charts, cards, and interactive slicers[file:1].
-- Last data refresh: 16 September 2025, 6:46 PM UTC[file:1].
-
-## Features
-
-- Filter data by genre, author, and date using slicers on the dashboard[file:1].
-- Visualize order distribution with bar and donut charts[file:1].
-- Trend analysis available through line charts[file:1].
-- Maps display geographical information about orders (if included)[file:1].
-- Quick stats shown in summary cards: orders, revenue, or other KPIs[file:1].
-
-## Getting Started
-
-1. Download or clone this repository.
-2. Open the `.pbix` file in Power BI Desktop (latest version recommended)[file:1].
-3. Refresh the data source if required.
-4. Interact with slicers and visuals to explore the data[file:1].
-
-## Requirements
-
-- Power BI Desktop installed (latest version recommended)[file:1].
-- Data file (Excel, CSV, database, or as specified by the dashboard setup)[file:1].
-
-## Usage
-
-- Use dashboard filters to zoom into specific authors, genres, or date periods[file:1].
-- Explore trends, summaries, and visuals to gain actionable insights about book orders[file:1].
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests for improvements or new features.
-
-## License
-
-Specify your license here (e.g., MIT, Apache 2.0).
 
